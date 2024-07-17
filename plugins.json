@@ -1,0 +1,17 @@
+{
+  "$schema": "./plugins.schema.json",
+  "info": {
+    "title": "repository template",
+    "version": "0.1.0",
+    "description": "A repository template"
+  },
+
+  "plugins": [
+    {
+      "name": "test-plugin",
+      "version": "0.1.0",
+      "description": "test Plugin",
+      "url": "https://github.com/test/test-repo"
+    }
+  ]
+}
