@@ -1,11 +1,10 @@
 {
-  "$schema": "./plugins.schema.json",
+  "$schema": "https://raw.githubusercontent.com/TDanks2000/repo-template/main/plugins.schema.json",
   "info": {
     "title": "repository template",
     "version": "0.1.0",
     "description": "A repository template"
   },
-
   "plugins": [
     {
       "name": "test-plugin",
