@@ -4,8 +4,6 @@
 
 This repository provides a template for managing plugins with a standardized JSON schema. The schema ensures consistent and structured information about the plugins, making it easier to manage, update, and utilize them in various applications. Plugins can be stored here in their separate folders or in a different location that is publicly accessible.
 
-Plugins can be stored here in their seprate folders or in a diffrent location that is publicy accesable
-
 ## JSON Schema
 
 The JSON schema defines the structure for the plugin information and includes the following sections:
